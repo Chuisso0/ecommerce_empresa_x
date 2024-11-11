@@ -1,11 +1,12 @@
 # E-commerce empresa X
 
-Vamos ciriar um **e-commerce**, para a *empresa X* e blablabla
+Vamos ciriar um **e-commerce**, para a *empresa X* e blablabl**a
 
-## Funcionalidades:
+## Funcional**idades:
 
-Checkout,tela de produto,catalogo
+_Checkout,**tela de produto**,catalogo_
+*Checkout,tela de produto,catalogo*
 
 ###### Melhorias do projeto
 
-Melhoria 1, melhoria 2 ...
+__Melhoria 1__, _melhoria 2_ 
