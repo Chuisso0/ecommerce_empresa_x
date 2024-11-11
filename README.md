@@ -32,3 +32,7 @@ __Melhoria 1__, _melhoria 2_
 
 #### Imagem local
 ![cachorrinho vestido de unicórnio](img/cachorrinho-unicornio.jpg)
+
+#### Imagem externa
+
+![Cachorrinho muito feliz no seu aniversario ganhando pirulito de presente](https://www.pexels.com/pt-br/foto/banquinho-tamborete-amor-coracao-4588047/)
