@@ -2,7 +2,7 @@
 
 Vamos ciriar um **e-commerce**, para a *empresa X* e blablabl**a
 
-## Funcional**idades:
+## Funcionalidades:
 
 _Checkout,**tela de produto**,catalogo_
 
