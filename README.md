@@ -5,6 +5,7 @@ Vamos ciriar um **e-commerce**, para a *empresa X* e blablabl**a
 ## Funcional**idades:
 
 _Checkout,**tela de produto**,catalogo_
+
 *Checkout,tela de produto,catalogo*
 
 ###### Melhorias do projeto
