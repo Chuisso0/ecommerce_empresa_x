@@ -1,6 +1,6 @@
 # E-commerce empresa X
 
-Vamos ciriar um e-commerce, para a empresa X e blablabla
+Vamos ciriar um **e-commerce**, para a *empresa X* e blablabla
 
 ## Funcionalidades:
 
