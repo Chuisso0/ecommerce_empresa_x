@@ -45,3 +45,11 @@ __Melhoria 1__, _melhoria 2_
 Contibuidor principal: https://www.github.com/matheusbattisti
 
 [![cachorro vestido de unicordio](img/cachorrinho-unicornio.jpg)](https://images.pexels.com/photos/1564506/pexels-photo-1564506.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+
+## Codigo da função soma
+
+```Javascript
+function soma(a, b){
+    return a + b;
+}
+```
